@@ -31,7 +31,7 @@ I'm currently studying computer science at university and i love the 3 C's (Coff
    <a href="https://laelapz.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/johnny-ferreira-birck-235659173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-  ![ Snake animation](https://github.com/nPr0nn/nPr0nn/blob/output/github-contribution-grid-snake.svg)
+  ![ Snake animation](https://github.com/Laelapz/Laelapz/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>
