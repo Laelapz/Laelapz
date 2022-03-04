@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello There! Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
-I'm currently studying computer engineering at university and interested in game and web development. Mostly into rendering, physics engines, simulations and computer graphics :)
+I'm currently studying computer science at university and i love the 3 C's (Coffee, Code and Cats).
 
 <img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="120" height="120" />
 
@@ -18,22 +18,22 @@ I'm currently studying computer engineering at university and interested in game
 <hr>
 <h3 align="center"> My github stats:</h3>
 <div align="center">
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Laelapz&show_icons=true&theme=radical&line_height=27"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laelapz&theme=synthwave&layout=compact"/>
 </div>
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Laelapz&theme=radical" height="200em"/>
 </div>
 
 </br>
 <hr>
 
 <div align="center"> <h3>Let's get in touch:</h3>
-  <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/npr0nn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasnogueira064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://npr0nn.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucas-nogueira-079a69160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://twitter.com/DjoniJonay" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/johnnybirck/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:johnnyf.birck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://laelapz.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/johnny-ferreira-birck-235659173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
   ![ Snake animation](https://github.com/nPr0nn/nPr0nn/blob/output/github-contribution-grid-snake.svg)
 </div>
