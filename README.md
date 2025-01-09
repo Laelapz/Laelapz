@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello There! Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
-I'm currently studying computer science at university and i love the 3 C's (Coffee, Code and Cats).
+I'm currently studying digital games at university and i love the 3 C's (Coffee, Code and Cats).
 
 <img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="120" height="120" />
 
